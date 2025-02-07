@@ -1,0 +1,104 @@
+.shopFirstPartElements {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 kolumny */
+    gap: 20px; /* Odstępy między elementami */
+    justify-content: center;
+    padding: 20px;
+}
+
+.shopFirstPart {
+    text-align: center;
+    margin-top: 55px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shopFirstPartHeadingText {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Second Part Styles */
+.shopSecondPart {
+    width: 90%;
+    margin: 40px auto;
+    padding: 20px;
+    /* background-color: #f9f9f9; */
+    /* border-radius: 10px; */
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+}
+
+.shopSecondPartHeader {
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* margin-bottom: 30px; */
+}
+
+.sortContainer select {
+    height: 45px;
+    width: 150px;
+}
+
+.shopSecondPartHeader h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+}
+
+.sortContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sortContainer label {
+    font-size: 16px;
+    color: #555;
+}
+
+.sortContainer select {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.productCount {
+    font-size: 14px;
+    color: #777;
+}
+
+.productsGrid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 kolumny */
+    gap: 20px; /* Odstępy między produktami */
+}
+
+/* Responsywność */
+@media (max-width: 1200px) {
+    .shopFirstPartElements, .productsGrid {
+        grid-template-columns: repeat(3, 1fr); /* 3 kolumny na mniejszych ekranach */
+    }
+}
+
+@media (max-width: 768px) {
+    .shopFirstPartElements, .productsGrid {
+        grid-template-columns: repeat(2, 1fr); /* 2 kolumny na tabletach */
+    }
+
+    .shopSecondPartHeader {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    .shopFirstPartElements, .productsGrid {
+        grid-template-columns: 1fr; /* 1 kolumna na telefonach */
+    }
+}

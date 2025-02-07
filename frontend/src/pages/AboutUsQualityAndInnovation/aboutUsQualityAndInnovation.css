@@ -1,0 +1,64 @@
+.aboutUsQualityAndInnovation {
+    margin-top: 99.3vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+}
+
+.aboutUsQualityAndInnovationContainer {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.aboutUsQualityAndInnovationContainerPartOne {
+    width: 100%;
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirst {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirstLeft,
+.aboutUsQualityAndInnovationContainerPartOneFirstRight {
+    flex: 1;
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirstLeftHead {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirstLeftBottom {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirstLeftBottomDiv {
+    /* width: 50px; */
+    /* height: 2px; */
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 20px;
+    background-color: #fff;
+    /* margin-right: 10px; */
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirstLeftBottomText {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.aboutUsQualityAndInnovationContainerPartOneFirstRight p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}

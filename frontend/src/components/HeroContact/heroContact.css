@@ -1,0 +1,91 @@
+.hero {
+    /* position: relative; */
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .hero img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+  }
+  
+  .hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 0;
+  }
+  
+  .navbar {
+    position: relative;
+    z-index: 10;
+  }
+  
+  .heroContainer {
+    z-index: 1;
+    color: white;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 47%;
+    justify-content: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+    margin-left: 7%;
+  }
+  
+  .heroContainerTopSectionTextContainer {
+    font-size: 96px;
+    font-weight: 900;
+    line-height: 0.9em;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .heroContainerTopSectionTextContainerThirdText {
+    color: #c69c6d;
+    margin-left: 50px;
+  }
+  
+  .heroContainerMiddleSection {
+    padding-top: 4vh;
+    margin-bottom: 4vh;
+  }
+  
+  .heroContainerMiddleSectionTextContainerText {
+    font-size: 24px;
+    letter-spacing: 1.4px;
+  }
+  
+  .heroContainerBottomSection {
+    margin-top: 20px;
+  }
+  
+  .heroContainerBottomSectionBtnEle {
+    width: 250px;
+    height: 70px;
+    font-size: 34px;
+    font-weight: 600;
+    letter-spacing: 1.1px;
+    background-color: orange;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .heroContainerBottomSectionBtnEle:hover {
+    background-color: #ff8c00;
+  }
+  

@@ -1,0 +1,124 @@
+.navbar {
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    color: white;
+}
+
+.navbar-shop {
+    color: black;
+}
+
+.navbarComponent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbarComponentTextEle {
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1.3px;
+    cursor: pointer;
+    transition: color 0.3s ease-in-out;
+}
+
+.navbarComponentTextEle:hover {
+    color: #adb5bd;
+}
+
+.navbarComponentLeftPartLogo img {
+    width: 150px;
+    height: auto;
+}
+
+.navbarComponentLeftPart {
+    display: flex;
+    flex-direction: row;
+}
+
+.navbarComponentCenterPart {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.navbarComponentCenterPartShopEleContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.navbarComponentCenterPartShopEleContainerIcon {
+    width: 24px;
+    height: auto;
+}
+
+.navbarComponentRightPart {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.navbarBottomLineElement {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-top: 5px;
+    transform: scaleY(0.7);
+    transform-origin: top;
+}
+
+.navbar-shop .navbarBottomLineElement {
+    background-color: black;
+}
+
+.navbarComponentCenterPartShopBottomDisplay {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 560px;
+    padding-top: 40px;
+    z-index: 2;
+}
+
+.navbarComponentCenterPartShopBottomDisplaySecond {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 690px;
+    padding-top: 40px;
+    z-index: 2;
+}
+
+.navbarComponentCenterPartShopBottomDisplayInside {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 1px solid #fff;
+    padding: 10px;
+}
+
+.navbarComponentCenterPartShop:hover .navbarComponentCenterPartShopBottomDisplay {
+    display: block;
+}
+
+.navbarComponentCenterPartAboutUs:hover .navbarComponentCenterPartShopBottomDisplaySecond {
+    display: block;
+}
+
+.navbarComponentCenterPartShopBottomDisplayText {
+    color: white;
+    margin: 5px 0;
+    cursor: pointer;
+}
+
+.navbarComponentCenterPartShopBottomDisplayText:hover {
+    color: #adb5bd;
+}

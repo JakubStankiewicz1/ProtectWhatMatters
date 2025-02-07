@@ -1,0 +1,179 @@
+.contactMiddleContainerFirst {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactMiddleContainerFirstLeft {
+    font-size: 28px;
+    font-weight: 800;
+    display: flex;
+    flex: 1;
+}
+
+.contactMiddleContainerFirstRight {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.contactMiddleContainerFirstRightOne {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.contactMiddleContainerFirstRightTwo {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.contactMiddleContainerFirstRightThree {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.contactMiddleContainerFirstRightFour {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.contactMiddleContainerFirstRightFive {
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.contactMiddleContainerDiv {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+    background-color: #000;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    /* transform: translateY(-15px); */
+}
+
+.contactMiddleContainerSecond {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactMiddleContainerSecondText {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contactMiddleContainerThird {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contactMiddleContainerThirdText {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.contactMiddleContainerFourth {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.contactMiddleContainerFourthLeftPartHeading {
+    font-size: 28px;
+    font-weight: 800;
+    display: flex;
+    flex: 1;
+}
+
+.contactMiddleContainerFourthRightPart {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-start;
+}
+
+.contactMiddleContainerFourth {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 100px;
+}
+
+.contactMiddleContainerFourthLeftPart {
+    flex: 1;
+}
+
+.contactMiddleContainerFourthRightPart {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: flex-start;
+}
+
+.contactMiddleContainerFourthRightPartContainer {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.contactMiddleContainerFourthRightPartContainerName,
+.contactMiddleContainerFourthRightPartContainerNameCompany,
+.contactMiddleContainerFourthRightPartContainerCountry,
+.contactMiddleContainerFourthRightPartContaineremail,
+.contactMiddleContainerFourthRightPartContainerPhone,
+.contactMiddleContainerFourthRightPartContainerSubject,
+.contactMiddleContainerFourthRightPartContainerMessage,
+.contactMiddleContainerFourthRightPartContainerButton {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.contactMiddleContainerFourthRightPartContainerNameText {
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.contactMiddleContainerFourthRightPartContainer input,
+.contactMiddleContainerFourthRightPartContainer textarea {
+    width: 100%;
+    padding: 10px;
+    height: 45px;
+    border: 1px solid #ccc;
+}
+
+.contactMiddleContainerFourthRightPartContainerButton button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    background: orange;
+    color: #333;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.contactMiddleContainerFourthRightPartContainerButton button:hover {
+    background: #333;
+    color: orange;
+}
