@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const location = useLocation();
-  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/';
+  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/' || location.pathname === '/product-category/stab-proof-vest/';
 
   return (
     <div className={`navbar ${isShopOrAccountPage ? 'navbar-shop' : 'navbar-default'}`}>

@@ -1,0 +1,153 @@
+.stabProofVest {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.stabProofVestContainer {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.stabProofVestContainerFirstHeaderText {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.stabProofVestContainerFirstTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    width: 70%;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerSecond {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.stabProofVestContainerThirdFirstHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.stabProofVestContainerThirdFirstText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSecondHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerThirdSecondTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSecondTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdThirdHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerThirdThirdTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdThirdTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdThirdTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdFourthHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerThirdFourthText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdFifthHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerThirdFifthText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSixthHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerThirdSixthTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSixthTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSixthTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSixthTextFour,
+.stabProofVestContainerThirdSixthTextFive,
+.stabProofVestContainerThirdSixthTextSix,
+.stabProofVestContainerThirdSixthTextSeven,
+.stabProofVestContainerThirdSixthTextEight,
+.stabProofVestContainerThirdSixthTextNine {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.stabProofVestContainerThirdSeventhHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.stabProofVestContainerThirdSeventhTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
