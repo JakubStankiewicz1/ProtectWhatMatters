@@ -14,6 +14,7 @@ import BulletproofVest from './pages/BulletproofVest/BulletproofVest';
 import HardArmor from './pages/HardArmor/HardArmor';
 import PlateCarrier from './pages/PlateCarrier/PlateCarrier';
 import StabProofVest from './pages/StabProofVest/StabProofVest';
+import CutResistantGloves from './pages/CutResistantGloves/CutResistantGloves';
 
 const App = () => {
   return (
@@ -34,6 +35,7 @@ const App = () => {
         <Route path="/product-category/hard-armor/" element={<HardArmor />} />
         <Route path="/product-category/plate-carrier/" element={<PlateCarrier />} />
         <Route path="/product-category/stab-proof-vest/" element={<StabProofVest />} />
+        <Route path="/product-category/cut-resistant-gloves/" element={<CutResistantGloves />} />
     
       </Routes>
 

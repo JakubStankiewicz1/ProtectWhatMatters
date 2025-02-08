@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const location = useLocation();
-  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/' || location.pathname === '/product-category/stab-proof-vest/';
+  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/' || location.pathname === '/product-category/stab-proof-vest/ ' || location.pathname === '/product-category/cut-resistant-gloves/';
 
   return (
     <div className={`navbar ${isShopOrAccountPage ? 'navbar-shop' : 'navbar-default'}`}>
@@ -42,7 +42,7 @@ const Navbar = () => {
                     <NavLink to="/product-category/hard-armor/" className="navbarComponentCenterPartShopBottomDisplayText">HARD ARMOR</NavLink>
                     <NavLink to="/product-category/plate-carrier/" className="navbarComponentCenterPartShopBottomDisplayText">PLATE CARRIER</NavLink>
                     <NavLink to="/product-category/stab-proof-vest/" className="navbarComponentCenterPartShopBottomDisplayText">STAB-PROOF VEST</NavLink>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">CUT-RESISTANT GLOVES</p>
+                    <NavLink to="/product-category/cut-resistant-gloves/" className="navbarComponentCenterPartShopBottomDisplayText">CUT-RESISTANT GLOVES</NavLink>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">FRAG TACTICAL VEST ACCESSORIES</p>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">TEMPLARS GEAR</p>
                 </div>

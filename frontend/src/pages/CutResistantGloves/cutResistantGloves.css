@@ -1,0 +1,11 @@
+.cutResistantGloves {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.cutResistantGlovesContainer {
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
