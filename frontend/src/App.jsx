@@ -16,6 +16,7 @@ import PlateCarrier from './pages/PlateCarrier/PlateCarrier';
 import StabProofVest from './pages/StabProofVest/StabProofVest';
 import CutResistantGloves from './pages/CutResistantGloves/CutResistantGloves';
 import FragTacticalVestAccessories from './pages/FragTacticalVestAccessories/FragTacticalVestAccessories';
+import TemplarsGear from './pages/TemplarsGear/TemplarsGear';
 
 const App = () => {
   return (
@@ -38,6 +39,7 @@ const App = () => {
         <Route path="/product-category/stab-proof-vest/" element={<StabProofVest />} />
         <Route path="/product-category/cut-resistant-gloves/" element={<CutResistantGloves />} />
         <Route path="/product-category/frag-tactical-vest-accessories/" element={<FragTacticalVestAccessories />} />
+        <Route path="/product-category/templars-gear/" element={<TemplarsGear />} />
     
       </Routes>
 
