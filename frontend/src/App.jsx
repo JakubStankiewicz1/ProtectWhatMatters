@@ -15,6 +15,7 @@ import HardArmor from './pages/HardArmor/HardArmor';
 import PlateCarrier from './pages/PlateCarrier/PlateCarrier';
 import StabProofVest from './pages/StabProofVest/StabProofVest';
 import CutResistantGloves from './pages/CutResistantGloves/CutResistantGloves';
+import FragTacticalVestAccessories from './pages/FragTacticalVestAccessories/FragTacticalVestAccessories';
 
 const App = () => {
   return (
@@ -36,6 +37,7 @@ const App = () => {
         <Route path="/product-category/plate-carrier/" element={<PlateCarrier />} />
         <Route path="/product-category/stab-proof-vest/" element={<StabProofVest />} />
         <Route path="/product-category/cut-resistant-gloves/" element={<CutResistantGloves />} />
+        <Route path="/product-category/frag-tactical-vest-accessories/" element={<FragTacticalVestAccessories />} />
     
       </Routes>
 

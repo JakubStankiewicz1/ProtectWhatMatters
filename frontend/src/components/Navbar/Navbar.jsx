@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const location = useLocation();
-  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/' || location.pathname === '/product-category/stab-proof-vest/ ' || location.pathname === '/product-category/cut-resistant-gloves/';
+  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/' || location.pathname === '/product-category/stab-proof-vest/ ' || location.pathname === '/product-category/cut-resistant-gloves/' || location.pathname === '/product-category/frag-tactical-vest-accessories/';
 
   return (
     <div className={`navbar ${isShopOrAccountPage ? 'navbar-shop' : 'navbar-default'}`}>
@@ -43,7 +43,7 @@ const Navbar = () => {
                     <NavLink to="/product-category/plate-carrier/" className="navbarComponentCenterPartShopBottomDisplayText">PLATE CARRIER</NavLink>
                     <NavLink to="/product-category/stab-proof-vest/" className="navbarComponentCenterPartShopBottomDisplayText">STAB-PROOF VEST</NavLink>
                     <NavLink to="/product-category/cut-resistant-gloves/" className="navbarComponentCenterPartShopBottomDisplayText">CUT-RESISTANT GLOVES</NavLink>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">FRAG TACTICAL VEST ACCESSORIES</p>
+                    <NavLink to="/product-category/frag-tactical-vest-accessories/" className="navbarComponentCenterPartShopBottomDisplayText">FRAG TACTICAL VEST ACCESSORIES</NavLink>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">TEMPLARS GEAR</p>
                 </div>
             </div>

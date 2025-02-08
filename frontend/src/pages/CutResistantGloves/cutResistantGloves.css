@@ -1,11 +1,107 @@
 .cutResistantGloves {
-    display: flex;
-    flex-direction: column;
-    margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
 }
 
 .cutResistantGlovesContainer {
-width: 90%;
-margin-left: auto;
-margin-right: auto;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+
+.cutResistantGlovesContainerTopHeaderText {
+  font-size: 64px;
+  font-weight: 900;  
+}
+
+.cutResistantGlovesContainerTopText {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 80px;
+  width: 70%;
+}
+
+.cutResistantGlovesContainerMiddle {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.cutResistantGlovesContainerBottomHeaderText {
+  font-size: 24px;
+  font-weight: 900;
+  margin-top: 50px;
+}
+
+.cutResistantGlovesContainerBottomTextOne {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextTwo {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextThree {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextFour {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextFive {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextSix {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextSeven {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextUlOne {
+  width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cutResistantGlovesContainerBottomTextUlOneLi {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 6px;
+}
+
+.cutResistantGlovesContainerBottomTextEight {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.cutResistantGlovesContainerBottomTextUlTwo {
+  width: 94%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cutResistantGlovesContainerBottomTextUlTwoLi {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 6px;
 }

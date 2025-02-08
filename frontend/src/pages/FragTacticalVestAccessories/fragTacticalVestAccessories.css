@@ -1,0 +1,100 @@
+.fragTacticalVestAccessories {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.fragTacticalVestAccessoriesContainer {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.fragTacticalVestAccessoriesContainerFirstHeaderText {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.fragTacticalVestAccessoriesContainerFirstTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 80px;
+    width: 70%;
+}
+
+.fragTacticalVestAccessoriesContainerFirstTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    width: 70%;
+}
+
+.fragTacticalVestAccessoriesContainerMiddle {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartFirstHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartFirstTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartSecondHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartSecondTextTextTop {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartSecondTextOneThick {
+    font-size: 19px;
+    font-weight: 700;
+    color: gray;
+    margin-top: 20px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartSecondTextOneNormal {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartThirdHeaderText {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 30px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartThirdTextUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartThirdTextUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartThirdTextUlLiThick {
+    font-weight: 600;
+}
+
+.fragTacticalVestAccessoriesContainerBottomPartThirdTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 40px;
+}
