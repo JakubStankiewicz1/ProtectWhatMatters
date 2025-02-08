@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const location = useLocation();
-  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation';
+  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/';
 
   return (
     <div className={`navbar ${isShopOrAccountPage ? 'navbar-shop' : 'navbar-default'}`}>
@@ -36,9 +36,9 @@ const Navbar = () => {
 
             <div className="navbarComponentCenterPartShopBottomDisplay">
                 <div className="navbarComponentCenterPartShopBottomDisplayInside">
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">BALLISTIC HELMETS</p>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">HELMET ACCESSORIES</p>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">BULLETPROOF VEST</p>
+                    <NavLink to="/product-category/ballistic-helmets/" className="navbarComponentCenterPartShopBottomDisplayText">BALLISTIC HELMETS</NavLink>
+                    <NavLink to="/product-category/helmet-accessories/" className="navbarComponentCenterPartShopBottomDisplayText">HELMET ACCESSORIES</NavLink>
+                    <NavLink to="/product-category/bulletproof-vest/" className="navbarComponentCenterPartShopBottomDisplayText">BULLETPROOF VEST</NavLink>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">HARD ARMOR</p>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">PLATE CARRIER</p>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">STAB-PROOF VEST</p>

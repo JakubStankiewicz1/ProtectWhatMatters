@@ -1,0 +1,263 @@
+.ballisticHelmets {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.ballisticHelmetsContainerTopPart {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ballisticHelmetsContainerTopPartTop {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerTopPart {
+    display: flex;
+    flex-direction: column;
+}
+
+.ballisticHelmetsContainerTopPartBottom {
+    display: flex;
+    width: 70%;
+    margin-top: 80px;
+}
+
+.ballisticHelmetsContainerTopPartBottomText {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* Middle Part - Produkty */
+.ballisticHelmetsContainerMiddlePart {
+    margin-top: 150px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Nagłówek sekcji ze sortowaniem */
+.middlePartHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Styl nagłówka */
+.middlePartHeading {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Kontener sortowania */
+.sortContainer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sortContainerLabel {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.sortContainer select {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.productCount {
+    font-size: 16px;
+    font-weight: 500;
+    color: #666;
+}
+
+/* Produkty */
+.productsGrid {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+.ballisticHelmetsContainerBottomPart {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    margin-bottom: 150px;
+}
+
+.ballisticHelmetsContainerBottomPartFirst {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.ballisticHelmetsContainerBottomPartFirstHeader {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerBottomPartFirstTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartFirstTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartFirstTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+
+.ballisticHelmetsContainerBottomPartSecondPart {
+    margin-top: 100px;
+}
+
+.ballisticHelmetsContainerBottomPartSecondPartHeader {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerBottomPartSecondPartUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ballisticHelmetsContainerBottomPartSecondPartLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+
+
+.ballisticHelmetsContainerBottomPartThirdPart {
+    margin-top: 100px;
+}
+
+.ballisticHelmetsContainerBottomPartThirdPartHeader {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerBottomPartThirdPartTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartThirdPartTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartFourthPart {
+    margin-top: 100px;
+}
+
+.ballisticHelmetsContainerBottomPartFourthPartHeader {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerBottomPartFourthPartTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartFourthPartTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartFourthPartTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartFourthPartTextFour {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+
+.ballisticHelmetsContainerBottomPartFifthPart {
+    margin-top: 100px;
+}
+
+.ballisticHelmetsContainerBottomPartFifthPartHeader {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerBottomPartFifthPartTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+
+
+.ballisticHelmetsContainerBottomPartSixthPart {
+    margin-top: 100px;
+}
+
+.ballisticHelmetsContainerBottomPartHeader {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.ballisticHelmetsContainerBottomPartSixthPartTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartSixthPartTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.ballisticHelmetsContainerBottomPartSixthPartUl {
+    margin-top: 20px;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ballisticHelmetsContainerBottomPartSixthPartUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 8px;
+}
+
+.ballisticHelmetsContainerBottomPartSixthPartTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}

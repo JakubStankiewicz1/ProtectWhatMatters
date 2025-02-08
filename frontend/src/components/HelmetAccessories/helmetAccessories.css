@@ -1,0 +1,128 @@
+.helmetAccessories {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.helmetAccessoriesContainer {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.helmetAccessoriesContainerFirstPartHeadingText {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.helmetAccessoriesContainerFirstPartText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    width: 70%;
+}
+
+
+.helmetAccessoriesContainerSecondPart {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.helmetAccessoriesContainerThirdPartFirstHeader {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.helmetAccessoriesContainerThirdPartFirstText {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.helmetAccessoriesContainerThirdPartSecondHeader {
+    font-size: 36px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.helmetAccessoriesContainerThirdPartSecondTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.helmetAccessoriesContainerThirdPartSecondTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.helmetAccessoriesContainerThirdPartSecondUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 2 */
+}
+
+.helmetAccessoriesContainerThirdPartSecondUlLi {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.helmetAccessoriesContainerThirdPartThirdHeading {
+    /* font-size: 20px; */
+    font-size: 36px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.helmetAccessoriesContainerThirdPartThirdText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.helmetAccessoriesContainerThirdPartFourthHeader {
+    font-size: 36px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.helmetAccessoriesContainerThirdPartFourthTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.helmetAccessoriesContainerThirdPartFourthUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.helmetAccessoriesContainerThirdPartFourthUl {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.helmetAccessoriesContainerThirdPartFifthHeader {
+    font-size: 36px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.helmetAccessoriesContainerThirdPartFifthTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.helmetAccessoriesContainerThirdPartFifthTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}

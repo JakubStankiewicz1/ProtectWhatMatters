@@ -103,6 +103,8 @@
     background-color: rgba(0, 0, 0, 0.8);
     border: 1px solid #fff;
     padding: 10px;
+    display: flex;
+    flex-direction: column;
 }
 
 .navbarComponentCenterPartShop:hover .navbarComponentCenterPartShopBottomDisplay {
