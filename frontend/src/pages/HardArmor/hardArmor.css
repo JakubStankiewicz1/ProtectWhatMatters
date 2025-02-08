@@ -1,0 +1,186 @@
+.hardArmor {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.hardArmorContainer {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.hardArmorContainerFirstPartHeadingText {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.hardArmorContainerFirstPartText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    width: 70%;
+}
+
+.hardArmorContainerSecondPart {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.hardArmorContainerThirdPartOneHeading {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.hardArmorContainerThirdPartOneTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartOneTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartOneTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartOneTextUl {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hardArmorContainerThirdPartOneTextUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+
+.hardArmorContainerThirdPartOneTextFour {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartTwoHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.hardArmorContainerThirdPartTwoTextUl {
+    margin-top: 20px;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hardArmorContainerThirdPartTwoTextUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+
+.hardArmorContainerThirdPartTwoTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartThreeHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.hardArmorContainerThirdPartThreeTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartThreeTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartFourHeader {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.hardArmorContainerThirdPartFourTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartFourTextUl {
+    margin-top: 20px;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hardArmorContainerThirdPartFourTextUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+
+.hardArmorContainerThirdPartFourTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartFiveHeader{
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.hardArmorContainerThirdPartFiveTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartFiveTextUl {
+    margin-top: 20px;
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hardArmorContainerThirdPartFiveTextUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+
+.hardArmorContainerThirdPartFiveTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hardArmorContainerThirdPartFiveTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}

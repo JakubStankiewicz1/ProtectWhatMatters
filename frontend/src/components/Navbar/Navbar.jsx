@@ -6,7 +6,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
   const location = useLocation();
-  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/';
+  const isShopOrAccountPage = location.pathname === '/shop' || location.pathname === '/account' || location.pathname === '/about-us/quality-innovation' || location.pathname === '/product-category/ballistic-helmets/' || location.pathname === '/product-category/helmet-accessories/' || location.pathname === '/product-category/bulletproof-vest/' || location.pathname === '/product-category/hard-armor/' || location.pathname === '/product-category/plate-carrier/';
 
   return (
     <div className={`navbar ${isShopOrAccountPage ? 'navbar-shop' : 'navbar-default'}`}>
@@ -39,9 +39,9 @@ const Navbar = () => {
                     <NavLink to="/product-category/ballistic-helmets/" className="navbarComponentCenterPartShopBottomDisplayText">BALLISTIC HELMETS</NavLink>
                     <NavLink to="/product-category/helmet-accessories/" className="navbarComponentCenterPartShopBottomDisplayText">HELMET ACCESSORIES</NavLink>
                     <NavLink to="/product-category/bulletproof-vest/" className="navbarComponentCenterPartShopBottomDisplayText">BULLETPROOF VEST</NavLink>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">HARD ARMOR</p>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">PLATE CARRIER</p>
-                    <p className="navbarComponentCenterPartShopBottomDisplayText">STAB-PROOF VEST</p>
+                    <NavLink to="/product-category/hard-armor/" className="navbarComponentCenterPartShopBottomDisplayText">HARD ARMOR</NavLink>
+                    <NavLink to="/product-category/plate-carrier/" className="navbarComponentCenterPartShopBottomDisplayText">PLATE CARRIER</NavLink>
+                    <NavLink to="/product-category/stab-proof-vest/" className="navbarComponentCenterPartShopBottomDisplayText">STAB-PROOF VEST</NavLink>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">CUT-RESISTANT GLOVES</p>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">FRAG TACTICAL VEST ACCESSORIES</p>
                     <p className="navbarComponentCenterPartShopBottomDisplayText">TEMPLARS GEAR</p>

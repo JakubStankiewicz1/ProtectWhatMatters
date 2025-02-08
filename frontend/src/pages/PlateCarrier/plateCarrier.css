@@ -1,0 +1,112 @@
+.plateCarrier {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.plateCarrierContainer {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.plateCarrierContainerTopPartHeaderText {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.plateCarrierContainerTopPartText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25px;
+    width: 70%;
+}
+
+.plateCarrierContainerMiddlePart {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.plateCarrierContainerBottomPartFirstHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.plateCarrierContainerBottomPartFirstText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.plateCarrierContainerBottomPartSecondHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.plateCarrierContainerBottomPartSecondText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.plateCarrierContainerBottomPartThirdContainerHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.plateCarrierContainerBottomPartThirdContainerTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.plateCarrierContainerBottomPartThirdContainerTextUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.plateCarrierContainerBottomPartThirdContainerTextUlLi {
+    margin-top: 6px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.plateCarrierContainerBottomPartThirdContainerTextUlLiThick {
+    font-weight: 600;
+}
+
+.plateCarrierContainerBottomPartFourthContainerHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.plateCarrierContainerBottomPartFourthContainerTextUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.plateCarrierContainerBottomPartFourthContainerTextUlLi {
+    margin-top: 10px;
+}
+
+.plateCarrierContainerBottomPartFifthHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.plateCarrierContainerBottomPartFifthText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}

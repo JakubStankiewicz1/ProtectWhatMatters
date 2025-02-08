@@ -11,6 +11,9 @@ import AboutUsQualityAndInnovation from './pages/AboutUsQualityAndInnovation/Abo
 import BallisticHelmets from './pages/BallisticHelmets/BallisticHelmets';
 import HelmetAccessories from './components/HelmetAccessories/HelmetAccessories';
 import BulletproofVest from './pages/BulletproofVest/BulletproofVest';
+import HardArmor from './pages/HardArmor/HardArmor';
+import PlateCarrier from './pages/PlateCarrier/PlateCarrier';
+import StabProofVest from './pages/StabProofVest/StabProofVest';
 
 const App = () => {
   return (
@@ -28,6 +31,9 @@ const App = () => {
         <Route path="/product-category/ballistic-helmets/" element={<BallisticHelmets />} />
         <Route path="/product-category/helmet-accessories/" element={<HelmetAccessories />} />
         <Route path="/product-category/bulletproof-vest/" element={<BulletproofVest />} />
+        <Route path="/product-category/hard-armor/" element={<HardArmor />} />
+        <Route path="/product-category/plate-carrier/" element={<PlateCarrier />} />
+        <Route path="/product-category/stab-proof-vest/" element={<StabProofVest />} />
     
       </Routes>
 
