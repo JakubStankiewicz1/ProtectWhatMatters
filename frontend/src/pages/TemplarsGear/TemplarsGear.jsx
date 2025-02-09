@@ -4,6 +4,8 @@ import "./templarsGear.css";
 import productsData from "../../products.json";
 import ProductElement from "../../components/ProductElement/ProductElement";
 
+import Fotter from "../../components/Fotter/Fotter";
+
 const TemplarsGear = () => {
   const [displayProducts, setDisplayProducts] = useState([]);
   const [sortType, setSortType] = useState("default");
@@ -126,6 +128,9 @@ const TemplarsGear = () => {
           </div>
         </div>
       </div>
+
+      <Fotter />
+      
     </div>
   );
 };

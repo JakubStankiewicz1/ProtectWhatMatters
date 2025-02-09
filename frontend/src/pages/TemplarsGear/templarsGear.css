@@ -1,0 +1,89 @@
+.templarsGear {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.templarsGearContainer {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.templarsGearContainerTopHeaderText {
+    font-size: 64px;
+    font-weight: 900;
+}
+
+.templarsGearContainerTopText {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+.templarsGearContainerMiddle {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.templarsGearContainerBottomFirstHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.templarsGearContainerBottomFirstTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.templarsGearContainerBottomFirstTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.templarsGearContainerBottomFirstTextUl {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+.templarsGearContainerBottomFirstTextUlLi {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 6px;
+}
+
+.templarsGearContainerBottomFirstTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.templarsGearContainerBottomSecondHeaderText {
+    font-size: 24px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+.templarsGearContainerBottomSecondTextOne {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.templarsGearContainerBottomSecondTextTwo {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.templarsGearContainerBottomSecondTextThree {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
