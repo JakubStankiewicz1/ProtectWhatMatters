@@ -85,3 +85,7 @@
 .heroContainerBottomSectionBtnEle:hover {
   background-color: #ff8c00;
 }
+
+.heroContainerTopSectionTextContainerSecondText {
+  margin-left: 60px;
+}
