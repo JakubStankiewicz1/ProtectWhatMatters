@@ -1,713 +1,784 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+  "products": [
+    {
+      "id": 1,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
       },
-      {
-        "id": 2,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
-        },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
-        },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
-        ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
       },
-      {
-        "id": 3,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
       },
-      {
-        "id": 4,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
-        },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
-        },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
-        ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
       },
-      {
-        "id": 5,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
       },
-      {
-        "id": 6,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
-        },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
-        },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
-        ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
       },
-      {
-        "id": 7,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
       },
-      {
-        "id": 8,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
-        },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
-        },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
-        ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
       },
-      {
-        "id": 9,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
       },
-      {
-        "id": 10,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
-        },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
-        },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
-        ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
       },
-      {
-        "id": 11,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
       },
-      {
-        "id": 12,
-        "name": "PGD ARCH GEN3 Ballistic Helmet",
-        "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
-        "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
-        "price": 549,
-        "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
-        "category": "helmet",
-        "currency": "EUR",
-        "date_added": "2025-02-06",
-        "sizes": [
-          {
-            "size": "L",
-            "weight": "2.97 lbs",
-            "dimensions": "21.25-23.25\""
-          },
-          {
-            "size": "M",
-            "weight": "2.97 lbs",
-            "dimensions": "23.25-25.5\""
-          },
-          {
-            "size": "XL",
-            "weight": "3.06 lbs",
-            "dimensions": "25.5-27.25\""
-          }
-        ],
-        "colors": ["Black", "Coyote Brown", "Multicam", "Multicam Black", "OD Green"],
-        "descriptionMainTitle": "PGD ARCH ballistic helmet",
-        "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
-        "features": {
-          "ballistics": [
-            "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
-            "NIJ 0106.01 standard IIIA 9 mm FMJ",
-            "V50 STANAG 2920: 660 m/s",
-            "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
-          ],
-          "materials": "Kevlar from Dupont",
-          "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
-          "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
         },
-        "warranty": {
-          "helmet_shell": "10 years",
-          "accessories": "2 years"
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
         },
-        "images": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
         ],
-        "gallery": [
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
-          "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
-        ]
-      }
-    ]
-  }
-  
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      },
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
+        },
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
+        },
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
+        ],
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      },
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
+        },
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
+        },
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
+        ],
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      },
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
+        },
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
+        },
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
+        ],
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      },
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
+        },
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
+        },
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
+        ],
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      },
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "PGD ARCH GEN3 Ballistic Helmet",
+      "descriptionOne": "The PGD ARCH helmet is trusted by special forces, military, law enforcement and civilians in over 30 countries. It is designed, manufactured and finished 100% in the EU.",
+      "descriptionTwo": "The PGD ARCH is designed for extreme conditions and is NIJ-certified lab tested to stop .44 magnum, .357 Sig and many other lesser, common threats.  Our chosen materials and process excels at greatly reducing back face deformation (BFD) and the risk of trauma associated with a ballistic strike.",
+      "price": 549,
+      "imageDescription": "https://www.chk-shield.com/cdn/shop/articles/evolution-of-the-us-military-helmet-436388_1200x.jpg",
+      "category": "helmet",
+      "currency": "EUR",
+      "date_added": "2025-02-06",
+      "sizes": [
+        {
+          "size": "L",
+          "weight": "2.97 lbs",
+          "dimensions": "21.25-23.25\""
+        },
+        {
+          "size": "M",
+          "weight": "2.97 lbs",
+          "dimensions": "23.25-25.5\""
+        },
+        {
+          "size": "XL",
+          "weight": "3.06 lbs",
+          "dimensions": "25.5-27.25\""
+        }
+      ],
+      "colors": [
+        "Black",
+        "Coyote Brown",
+        "Multicam",
+        "Multicam Black",
+        "OD Green"
+      ],
+      "descriptionMainTitle": "PGD ARCH ballistic helmet",
+      "descriptionMainText": "The ARCH helmet is constructed with high-performance Kevlar aramid fibers from Dupont, making it a trusted choice among professional military and police units worldwide.",
+      "features": {
+        "ballistics": [
+          "NIJ 0106.01 standard IIIA .44 magnum and .357 SIG",
+          "NIJ 0106.01 standard IIIA 9 mm FMJ",
+          "V50 STANAG 2920: 660 m/s",
+          "50% reduction in Back Face Deformation (BFD) against 9 mm FMJ"
+        ],
+        "materials": "Kevlar from Dupont",
+        "shroud": "Compatible with Wilcox, Norotos, Cadex and similar night vision mounts",
+        "rail_system": "Compatible with 3M Peltor, Sordin, Ops-core AMP arms, Earmor"
+      },
+      "warranty": {
+        "helmet_shell": "10 years",
+        "accessories": "2 years"
+      },
+      "images": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_SK-1.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_GREEN_SK.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/PGD_ARCH_BROWN_SK-416x416.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/10/Helmet-ARCH-2022-Multicam-400x400.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/Arch2022-6-1-min-jpg.webp"
+      ],
+      "gallery": [
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmet.jpg",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/about-us-cta-scaled-1.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2024/07/photo_wide02-jpg.webp",
+        "https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-bulletproof-helmets.jpg"
+      ]
+    }
+  ]
+}
