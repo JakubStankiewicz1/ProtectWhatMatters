@@ -8,10 +8,10 @@ import image1 from "./graphic1.jpg";
 import image2 from "./graphic2.jpg";
 import image3 from "./graphic3.jpg";
 
-import socialMediaImg1 from "./socialMediaImg1.jpg"
-import socialMediaImg2 from "./socialMediaImg2.jpg"
-import socialMediaImg3 from "./socialMediaImg3.jpg"
-import socialMediaImg4 from "./socialMediaImg4.jpg"
+import socialMediaImg1 from "./socialMediaImg1.jpg";
+import socialMediaImg2 from "./socialMediaImg2.jpg";
+import socialMediaImg3 from "./socialMediaImg3.jpg";
+import socialMediaImg4 from "./socialMediaImg4.jpg";
 
 import instagramIcon from "./instagramIcon.png";
 
@@ -41,36 +41,41 @@ import aboutUs4 from "./aboutUs4.jpg";
 import aboutUs5 from "./aboutUs5.webp";
 import aboutUs6 from "./aboutUs6.jpg";
 
+import whiteLogo from "./logo-white.svg";
+import blackLogo from "./logo-black.svg";
+
 export default {
-    homepageBackground,
-    logoImage,
-    searchIcon,
-    arrowBottom,
-    aboutUs,
-    image1,
-    image2,
-    image3,
-    socialMediaImg1,
-    socialMediaImg2,
-    socialMediaImg3,
-    socialMediaImg4,
-    instagramIcon,
-    iconEu,
-    iconBest,
-    iconCertificate,
-    trustpilotIcon,
-    fotterLogo,
-    aboutUs1,
-    contact,
-    account,
-    aboutShield,
-    aboutIso,
-    aboutHelmet,
-    aboutSoftArmor,
-    aboutHardArmor,
-    aboutUs2,
-    aboutUs3,
-    aboutUs4,
-    aboutUs5,
-    aboutUs6,
+  homepageBackground,
+  logoImage,
+  searchIcon,
+  arrowBottom,
+  aboutUs,
+  image1,
+  image2,
+  image3,
+  socialMediaImg1,
+  socialMediaImg2,
+  socialMediaImg3,
+  socialMediaImg4,
+  instagramIcon,
+  iconEu,
+  iconBest,
+  iconCertificate,
+  trustpilotIcon,
+  fotterLogo,
+  aboutUs1,
+  contact,
+  account,
+  aboutShield,
+  aboutIso,
+  aboutHelmet,
+  aboutSoftArmor,
+  aboutHardArmor,
+  aboutUs2,
+  aboutUs3,
+  aboutUs4,
+  aboutUs5,
+  aboutUs6,
+  whiteLogo,
+  blackLogo,
 };

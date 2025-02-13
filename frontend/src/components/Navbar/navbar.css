@@ -1,126 +1,134 @@
 .navbar {
-    /* position: fixed; */
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-    color: white;
+  /* position: fixed; */
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  color: white;
 }
 
 .navbar-shop {
-    color: black;
+  color: black;
 }
 
 .navbarComponent {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 20px;
-    align-items: center;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+  align-items: center;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
 }
 
 .navbarComponentTextEle {
-    font-size: 17px;
-    font-weight: 600;
-    letter-spacing: 1.3px;
-    cursor: pointer;
-    transition: color 0.3s ease-in-out;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 1.3px;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
 }
 
 .navbarComponentTextEle:hover {
-    color: #adb5bd;
+  color: #adb5bd;
 }
 
 .navbarComponentLeftPartLogo img {
-    width: 150px;
-    height: auto;
+  width: 150px;
+  height: auto;
 }
 
 .navbarComponentLeftPart {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .navbarComponentCenterPart {
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
 }
 
 .navbarComponentCenterPartShopEleContainer {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 10px;
-    cursor: pointer;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
 }
 
 .navbarComponentCenterPartShopEleContainerIcon {
-    width: 24px;
-    height: auto;
+  width: 24px;
+  height: auto;
 }
 
 .navbarComponentRightPart {
-    display: flex;
-    flex-direction: row;
-    gap: 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
 }
 
 .navbarBottomLineElement {
-    width: 100%;
-    height: 1px;
-    background-color: white;
-    margin-top: 5px;
-    transform: scaleY(0.7);
-    transform-origin: top;
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  margin-top: 5px;
+  transform: scaleY(0.7);
+  transform-origin: top;
 }
 
 .navbar-shop .navbarBottomLineElement {
-    background-color: black;
+  background-color: black;
 }
 
 .navbarComponentCenterPartShopBottomDisplay {
-    display: none;
-    position: absolute;
-    top: 50%;
-    left: 560px;
-    padding-top: 40px;
-    z-index: 2;
+  display: none;
+  position: absolute;
+  /* top: 50%; */
+  left: 29.8%;
+  padding-top: 1.3%;
+  z-index: 1;
 }
 
 .navbarComponentCenterPartShopBottomDisplaySecond {
-    display: none;
-    position: absolute;
-    top: 50%;
-    left: 690px;
-    padding-top: 40px;
-    z-index: 2;
+  display: none;
+  position: absolute;
+  /* top: 50%; */
+  left: 38.4%;
+  padding-top: 1.3%;
+  z-index: 2;
 }
 
 .navbarComponentCenterPartShopBottomDisplayInside {
-    background-color: rgba(0, 0, 0, 0.8);
-    border: 1px solid #fff;
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.8);
+  border: 1px solid #fff;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
 }
 
-.navbarComponentCenterPartShop:hover .navbarComponentCenterPartShopBottomDisplay {
-    display: block;
+.navbarComponentCenterPartShop:hover
+  .navbarComponentCenterPartShopBottomDisplay {
+  display: block;
 }
 
-.navbarComponentCenterPartAboutUs:hover .navbarComponentCenterPartShopBottomDisplaySecond {
-    display: block;
+.navbarComponentCenterPartAboutUs:hover
+  .navbarComponentCenterPartShopBottomDisplaySecond {
+  display: block;
 }
 
 .navbarComponentCenterPartShopBottomDisplayText {
-    color: white;
-    margin: 5px 0;
-    cursor: pointer;
+  color: white;
+  margin: 5px 0;
+  cursor: pointer;
 }
 
 .navbarComponentCenterPartShopBottomDisplayText:hover {
-    color: #adb5bd;
+  color: #adb5bd;
+}
+
+.navbarComponentLeftPartLogo img {
+  width: 130px;
+  height: auto;
 }

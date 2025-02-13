@@ -1,316 +1,314 @@
 .fotter {
-    color: #fff;
-    background: #000;
-    width: 100%;
-    height: 125vh;
-    display: flex;
-    flex-direction: column;
+  color: #fff;
+  background: #000;
+  /* width: 100%; */
+  /* height: 125vh; */
+  display: flex;
+  flex-direction: column;
 }
 
 .fotterTopPartTopContainer {
-    width: 88%;
-    margin-left: auto;
-    margin-right: auto;
+  width: 88%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .fotterTopPartTopContainer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    gap: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 70px;
 }
 
 .fotterTopPartTopContainerFirst {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
 
 .fotterTopPartTopContainerSecond {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
 
 .fotterTopPartTopContainerThird {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
 }
 
 .fotterTopPartTopContainerFirstImage {
-    width: 50px;
-    height: auto;
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+  width: 50px;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 .fotterTopPartTopContainerFirstTextHeader {
-    font-size: 24px;
-    font-weight: 800;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .fotterTopPartTopContainerFirstText {
-    color: #C4C4C4;
+  color: #c4c4c4;
 }
 
 .fotterTopPartTopContainerSecondImage {
-    width: 50px;
-    height: auto;
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+  width: 50px;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 .fotterTopPartTopContainerSecondTextHeader {
-    font-size: 24px;
-    font-weight: 800;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .fotterTopPartTopContainerSecondTextCont {
-    color: #C4C4C4;
-    margin-left: 24px;
+  color: #c4c4c4;
+  margin-left: 24px;
 }
 
-
 .fotterTopPartTopContainerThirdImage {
-    width: 50px;
-    height: auto;
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
+  width: 50px;
+  height: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
 
 .fotterTopPartTopContainerThirdTextHeader {
-    font-size: 24px;
-    font-weight: 800;
-    margin-top: 20px;
-    margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 800;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .fotterTopPartTopContainerThirdText {
-    color: #C4C4C4;
+  color: #c4c4c4;
 }
 
 .fotterTopPartTopContainerHrDiv {
-    display: flex;
-    width: 1px;
-    height: 450px;
-    background: #fff;
+  display: flex;
+  width: 1px;
+  height: 450px;
+  background: #fff;
 }
 
 .fotterTopPartDivHrFirst {
-    display: flex;
-    width: 100%;
-    height: 1px;
-    background: #fff;
+  display: flex;
+  width: 100%;
+  height: 1px;
+  background: #fff;
 }
 
 .fotterTopPartBottomElementIcon {
-    width: 30px;
-    height: 30px;
-    margin-right: 15px;
+  width: 30px;
+  height: 30px;
+  margin-right: 15px;
 }
 
 .fotterTopPartBottomElementDivTrustpilot {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .fotterTopPartBottomElementDivTrustpilotText {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 .fotterTopPartBottomElement {
-    display: flex;
-    flex-direction: row;
-    /* width: 100%; */
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 22px;
-    width: 33%;
-    margin-left: auto;
-    margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  /* width: 100%; */
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 22px;
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .fotterTopPartBottomElementText {
-    font-size: 22px;
+  font-size: 22px;
 }
 
 .fotterTopPartHrElement {
-    display: flex;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    /* width: 1px; */
-    /* height: 450px; */
-    height: 1px;
-    background: #fff;
-    margin-top: 90px;
+  display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 1px; */
+  /* height: 450px; */
+  height: 1px;
+  background: #fff;
+  margin-top: 90px;
 }
 
 .fotterMiddlePart {
-    display: flex;
-    flex-direction: column;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
 }
 
 .fotterMiddlePartTopPart {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    /* margin-top: 50px; */
-    margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* margin-top: 50px; */
+  margin-bottom: 50px;
 }
 
 .fotterMiddlePartTopPartLeftPartText {
-    font-size: 32px;
-    font-weight: 700;
+  font-size: 32px;
+  font-weight: 700;
 }
 
 .fotterMiddlePartTopPartRightPart {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .fotterMiddlePartTopPartRightPartInput {
-    outline: none;
-    border: none;
-    width: 390px;
-    padding-left: 20px;
-    color: white;
-    background-color: #000;
-    border: 1px solid #fff;
-    font-size: 16px;
+  outline: none;
+  border: none;
+  width: 390px;
+  padding-left: 20px;
+  color: white;
+  background-color: #000;
+  border: 1px solid #fff;
+  font-size: 16px;
 }
 
 .fotterMiddlePartTopPartRightPartButton {
-    outline: none;
-    border: none;
-    width: 160px;
-    /* height:  */
-    font-size: 20px;
-    font-weight: 700;
-    background: lightgray;
-    cursor: pointer;
+  outline: none;
+  border: none;
+  width: 160px;
+  /* height:  */
+  font-size: 20px;
+  font-weight: 700;
+  background: lightgray;
+  cursor: pointer;
 }
 
 .fotterMiddlePartBottomPart {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .fotterMiddlePartBottomPartFirstPart {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-right: 10px;
 }
 
 .fotterMiddlePartBottomPartSecondPart {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    padding-right: 10px;
-
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-right: 10px;
 }
 
 .fotterMiddlePartBottomPartThirdPart {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    padding-right: 10px;
-
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-right: 10px;
 }
 
 .fotterMiddlePartBottomPartFourthPart {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    padding-right: 10px;
-
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding-right: 10px;
 }
 
 .fotterMiddlePartBottomPartFifthPart {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
 }
-
 
 .fotterMiddlePartBottomPartFirstPartHeader,
 .fotterMiddlePartBottomPartSecondPartHeader,
 .fotterMiddlePartBottomPartThirdPartHeader,
 .fotterMiddlePartBottomPartFourthPartHeader,
 .fotterMiddlePartBottomPartFifthPartHeader {
-    font-size: 22px;
-    font-weight: 700;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    letter-spacing: 1.1px;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  letter-spacing: 1.1px;
 }
 
 .fotterMiddlePartBottomPartFirstPartText,
 .fotterMiddlePartBottomPartSecondPartText,
 .fotterMiddlePartBottomPartThirdPartText,
 .fotterMiddlePartBottomPartFourthPartText {
-    font-size: 14px;
-    margin-bottom: 8px;
-    cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 8px;
+  cursor: pointer;
 }
 
-
 .fotterHrLastPart {
-    display: flex;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    height: 1px;
-    background-color: #fff;
-    margin-top: 120px;
+  display: flex;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1px;
+  background-color: #fff;
+  margin-top: 120px;
 }
 
 .fotterBottomPart {
-    display: flex;
-    flex-direction: column;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
 }
 
 .fotterBottomPartMiddlePart {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    margin-bottom: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 70px;
 }
 
 .fotterBottomPartBottomPart {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
 }
 
 .fotterBottomPartBottomPartRight {
-    display: flex;
-    flex-direction: row;
-    gap: 40px;
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
 }
 
 .fotterBottomPartBottomPartLeftText {
-    font-size: 16px;
+  font-size: 16px;
+}
+
+.fotterBottomPart {
+  margin-bottom: 4%;
 }

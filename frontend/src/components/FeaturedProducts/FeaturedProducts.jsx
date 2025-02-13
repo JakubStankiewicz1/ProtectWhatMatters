@@ -14,7 +14,7 @@ const FeaturedProducts = () => {
         return new Date(b.date_added) - new Date(a.date_added);
       return a.id - b.id; // Default sorting by ID
     })
-    .slice(0, 7); // Limit to 7 products
+    .slice(0, 6); // Limit to 7 products
 
   return (
     <div className="featuredProducts">
