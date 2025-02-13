@@ -1,113 +1,117 @@
 .latestArrivals {
-    width: 100%;
-    height: 100vh;
-    background-color: #f9f9f9;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .latestArrivalsContainer {
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .latestArrivalsHeader {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    width: 100%;
-    margin-bottom: 20px;
-  }
-  
-  .latestArrivalsHeaderTitle {
-    font-size: 36px;
-    font-weight: 900;
-  }
-  
-  .sortContainer {
-    display: flex;
-    align-items: center;
-  }
-  
-  .sortContainer label {
-    margin-right: 8px;
-  }
-  
-  .productCount {
-    margin-left: 16px;
-    font-size: 14px;
-    color: #666;
-  }
-  
-  .productsGrid {
-    display: flex;
-    overflow-x: auto;
-    gap: 20px;
-    width: 100%;
-    margin-top: 50px;
-  }
-  
-  .productsGrid::-webkit-scrollbar {
-    height: 8px;
-  }
-  
-  .productsGrid::-webkit-scrollbar-thumb {
-    background-color: #ccc;
-    border-radius: 4px;
-  }
-  
-  .latestArrivalsBottom {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 90px;
-    flex-direction: row;
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    align-items: center;
-    margin-top: 200px;
-  }
-  
-  .leftSection {
-    font-size: 24px;
-    font-weight: bold;
-    line-height: 2.5em;
-  }
-  
-  .rightSection {
-    max-width: 50%;
-    color: #555;
-  }
-  
-  .leftSectionTextOne {
-    font-size: 68px;
-    font-weight: 900;
-  }
-  
-  .leftSectionTextTwo {
-    font-size: 68px;
-    font-weight: 900;
-    color: #C69C6D;
-  }
-  
-  .rightSectionText {
-    font-size: 24px;
-    font-weight: 500;
-  }
-  
-  .sortContainer select {
-    width: 150px;
-    height: 30px;
-    outline: none;
-    border: none;
-    background-color: inherit;
-    margin-right: 200px;
-  }
+  width: 100%;
+  /* height: 100vh; */
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.latestArrivalsContainer {
+  width: 90%;
+  /* padding-top: 130px; */
+  /* margin-bottom: 250px; */
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.latestArrivalsHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.latestArrivalsHeaderTitle {
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.sortContainer {
+  display: flex;
+  align-items: center;
+}
+
+.sortContainer label {
+  margin-right: 8px;
+}
+
+.productCount {
+  margin-left: 16px;
+  font-size: 14px;
+  color: #666;
+}
+
+.productsGrid {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.productsGrid::-webkit-scrollbar {
+  height: 8px;
+}
+
+.productsGrid::-webkit-scrollbar-thumb {
+  background-color: #ccc;
+  border-radius: 4px;
+}
+
+.latestArrivalsBottom {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 90px;
+  flex-direction: row;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.leftSection {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 2.5em;
+}
+
+.rightSection {
+  max-width: 50%;
+  color: #555;
+}
+
+.leftSectionTextOne {
+  font-size: 68px;
+  font-weight: 900;
+}
+
+.leftSectionTextTwo {
+  font-size: 68px;
+  font-weight: 900;
+  color: #c69c6d;
+}
+
+.rightSectionText {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.sortContainer select {
+  width: 150px;
+  height: 30px;
+  outline: none;
+  border: none;
+  background-color: inherit;
+  margin-right: 200px;
+}
