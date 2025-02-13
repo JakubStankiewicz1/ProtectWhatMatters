@@ -44,6 +44,8 @@ import aboutUs6 from "./aboutUs6.jpg";
 import whiteLogo from "./logo-white.svg";
 import blackLogo from "./logo-black.svg";
 
+import arrowBottomBlack from "./arrowBottomBlack.png";
+
 export default {
   homepageBackground,
   logoImage,
@@ -78,4 +80,5 @@ export default {
   aboutUs6,
   whiteLogo,
   blackLogo,
+  arrowBottomBlack,
 };

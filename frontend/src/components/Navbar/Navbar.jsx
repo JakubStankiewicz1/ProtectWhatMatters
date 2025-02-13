@@ -32,11 +32,7 @@ const Navbar = () => {
         <div className="navbarComponentLeftPart">
           <div className="navbarComponentLeftPartLogo">
             <Link to="/">
-              <img
-                src={assets.whiteLogo}
-                alt=""
-                className="navbarComponentLeftPartLogoLogo"
-              />
+              <img src={assets.logoImage} alt="" />
             </Link>
           </div>
         </div>
