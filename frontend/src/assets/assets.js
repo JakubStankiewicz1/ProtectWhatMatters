@@ -46,6 +46,11 @@ import blackLogo from "./logo-black.svg";
 
 import arrowBottomBlack from "./arrowBottomBlack.png";
 
+import aboutUsIsoOne from "./aboutUsIsoOne.jpg";
+import aboutUsIsoTwo from "./aboutUsIsoTwo.svg";
+import aboutUsIsoThree from "./aboutUsIsoThree.png";
+import aboutUsIsoFour from "./aboutUsIsoFour.jpg";
+
 export default {
   homepageBackground,
   logoImage,
@@ -81,4 +86,8 @@ export default {
   whiteLogo,
   blackLogo,
   arrowBottomBlack,
+  aboutUsIsoOne,
+  aboutUsIsoTwo,
+  aboutUsIsoThree,
+  aboutUsIsoFour,
 };

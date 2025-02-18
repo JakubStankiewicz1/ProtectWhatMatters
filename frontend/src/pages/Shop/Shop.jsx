@@ -26,38 +26,47 @@ const Shop = () => {
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/PGD-ARCH-fully-equipped-400x400-px-324x324.jpg"
             text="BALLISTIC HELMETS"
+            location="/product-category/ballistic-helmets/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Bulletproof-vest-400x400-px-324x324.jpg"
             text="BULLETPROOF VEST"
+            location="/product-category/bulletproof-vest/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Cut-resistant-gloves-400x400px-324x324.jpg"
             text="CUT-RESISTANT GLOVES"
+            location="/product-category/cut-resistant-gloves/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/FRAG-tactical-vest-accessories-400x400px-324x324.jpg"
             text="FRAG TACTICAL VEST ACCESSORIES"
+            location="/product-category/frag-tactical-vest-accessories/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Hard-armor-400x400px-324x324.jpg"
             text="HARD ARMOR"
+            location="/product-category/hard-armor/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Helmet-accessories-400x400-px-324x324.jpg"
             text="HELMET ACCESSORIES"
+            location="/product-category/helmet-accessories/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Plate-carrier-400x400-px-324x324.jpg"
             text="PLATE CARRIER"
+            location="/product-category/plate-carrier/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Stab-proof-vest-400x400px-324x324.jpg"
             text="STAB-PROOF VEST"
+            location="/product-category/stab-proof-vest/"
           />
           <ShopElement
             image="https://protectiongroupdenmark.com/wp-content/uploads/2025/01/Templars-Gear-400x400px-324x324.jpg"
             text="TEMPLARS GEAR"
+            location="/product-category/templars-gear/"
           />
         </div>
       </div>

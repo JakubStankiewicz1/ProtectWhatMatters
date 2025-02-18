@@ -19,7 +19,8 @@ const Navbar = () => {
     location.pathname === "/product-category/cut-resistant-gloves/" ||
     location.pathname === "/product-category/frag-tactical-vest-accessories/" ||
     location.pathname === "/product-category/templars-gear/" ||
-    location.pathname.includes("/product");
+    location.pathname.includes("/product") ||
+    location.pathname === "/about-us/isoCertification";
 
   return (
     <div
@@ -32,7 +33,12 @@ const Navbar = () => {
         <div className="navbarComponentLeftPart">
           <div className="navbarComponentLeftPartLogo">
             <Link to="/">
-              <img src={assets.logoImage} alt="" />
+              {isShopOrAccountPage ? (
+                <img src={assets.blackLogo} alt="" />
+              ) : (
+                <img src={assets.whiteLogo} alt="" />
+              )}
+              {/* <img src={assets.logoImage} alt="" /> */}
             </Link>
           </div>
         </div>
@@ -58,13 +64,26 @@ const Navbar = () => {
               >
                 SHOP
               </NavLink>
-              <img
+              {isShopOrAccountPage ? (
+                <img
+                  src={assets.arrowBottomBlack}
+                  alt=""
+                  className="navbarComponentCenterPartShopEleContainerIcon"
+                />
+              ) : (
+                <img
+                  src={assets.arrowBottom}
+                  alt=""
+                  className="navbarComponentCenterPartShopEleContainerIcon"
+                />
+              )}
+              {/* <img
                 src={assets.arrowBottom}
                 alt=""
                 className="navbarComponentCenterPartShopEleContainerIcon"
-              />
+              /> */}
             </div>
-
+            {/* arrowBottomBlack */}
             <div className="navbarComponentCenterPartShopBottomDisplay">
               <div className="navbarComponentCenterPartShopBottomDisplayInside">
                 <NavLink
@@ -134,11 +153,19 @@ const Navbar = () => {
               >
                 ABOUT US
               </NavLink>
-              <img
-                src={assets.arrowBottom}
-                alt=""
-                className="navbarComponentCenterPartShopEleContainerIcon"
-              />
+              {isShopOrAccountPage ? (
+                <img
+                  src={assets.arrowBottomBlack}
+                  alt=""
+                  className="navbarComponentCenterPartShopEleContainerIcon"
+                />
+              ) : (
+                <img
+                  src={assets.arrowBottom}
+                  alt=""
+                  className="navbarComponentCenterPartShopEleContainerIcon"
+                />
+              )}
             </div>
 
             <div className="navbarComponentCenterPartShopBottomDisplaySecond">
@@ -149,9 +176,12 @@ const Navbar = () => {
                 >
                   QUALITY & INNOVATION
                 </NavLink>
-                <p className="navbarComponentCenterPartShopBottomDisplayText">
+                <NavLink
+                  to="/about-us/isoCertification"
+                  className="navbarComponentCenterPartShopBottomDisplayText"
+                >
                   ISO CERTIFICATION
-                </p>
+                </NavLink>
                 <p className="navbarComponentCenterPartShopBottomDisplayText">
                   SOFT BODY ARMOR
                 </p>

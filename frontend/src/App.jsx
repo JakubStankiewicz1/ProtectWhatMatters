@@ -18,6 +18,7 @@ import CutResistantGloves from "./pages/CutResistantGloves/CutResistantGloves";
 import FragTacticalVestAccessories from "./pages/FragTacticalVestAccessories/FragTacticalVestAccessories";
 import TemplarsGear from "./pages/TemplarsGear/TemplarsGear";
 import Product from "./pages/Product/Product";
+import IsoCertification from "./pages/IsoCertification/IsoCertification";
 
 const App = () => {
   return (
@@ -68,6 +69,11 @@ const App = () => {
           element={<TemplarsGear />}
         />
         <Route path="/product/:id" element={<Product />} />
+        IsoCertification
+        <Route
+          path="/about-us/isoCertification"
+          element={<IsoCertification />}
+        />
       </Routes>
     </div>
   );

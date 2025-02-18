@@ -1,24 +1,23 @@
-import React from 'react';
+import React from "react";
 import "./shopElement.css";
+import { NavLink } from "react-router-dom";
 
-const ShopElement = ({ image, text }) => {
+const ShopElement = ({ image, text, location }) => {
   return (
-    <div className="shopElement">
-
-        <div className="shopElementContainer">
-            {/* Image Elemenet */}
-            <div className="shopElementContainerImage">
-                <img src={image} alt="" />
-            </div>
-
-            {/* Text Element */}
-            <div className="shopElementContainerText">
-                <p className="shopElementContainerTextEle">{text}</p>
-            </div>
+    <NavLink to={location} className="shopElement">
+      <div className="shopElementContainer">
+        {/* Image Elemenet */}
+        <div className="shopElementContainerImage">
+          <img src={image} alt="" />
         </div>
-        
-    </div>
-  )
-}
 
-export default ShopElement
+        {/* Text Element */}
+        <div className="shopElementContainerText">
+          <p className="shopElementContainerTextEle">{text}</p>
+        </div>
+      </div>
+    </NavLink>
+  );
+};
+
+export default ShopElement;

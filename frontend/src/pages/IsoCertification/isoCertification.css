@@ -1,0 +1,328 @@
+.isoCertificationContainerFirst {
+  background-color: #c69c6d;
+  margin-top: -70px;
+  height: 500px;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.isoCertificationContainerFirstLeft {
+  display: flex;
+  flex-direction: column;
+  flex: 8;
+}
+
+.isoCertificationContainerFirstRight {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+}
+
+.isoCertificationContainerFirstLeftHeaderText {
+  font-size: 56px;
+  font-weight: 900;
+  line-height: 0.85em;
+}
+
+.isoCertificationContainerFirstRightContainer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.isoCertificationContainerFirstLeftContainerText {
+  font-size: 22px;
+  margin-top: 30px;
+}
+
+.isoCertificationContainerFirstRightDiv {
+  height: 380px;
+  width: 1px;
+  margin-top: 70px;
+  background-color: #000;
+}
+
+.isoCertificationContainerFirstLeft {
+  padding-top: 150px;
+  padding-bottom: 60px;
+}
+
+.isoCertificationContainerFirstRightContainer {
+  margin-top: 300px;
+}
+
+.isoCertificationContainerSecondContainerImg {
+  width: 100%;
+  height: 100vh;
+}
+
+.isoCertificationContainerThird {
+  background-color: #000;
+  color: #fff;
+  margin-top: -5px;
+}
+
+.isoCertificationContainerThirdFirst {
+  display: flex;
+  flex-direction: row;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  width: 85%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.isoCertificationContainerThirdFirstLeft {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.isoCertificationContainerThirdFirstRight {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.isoCertificationContainerThirdFirstLeftHeaderText {
+  display: flex;
+  flex-direction: row;
+  font-size: 42px;
+  font-weight: 900;
+}
+
+.isoCertificationContainerThirdFirstLeftTextComponent {
+  display: flex;
+  flex-direction: row;
+  margin-top: 18px;
+  align-items: center;
+}
+
+.isoCertificationContainerThirdFirstLeftTextComponentDiv {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: lightgray;
+}
+
+.isoCertificationContainerThirdFirstLeftTextComponentText {
+  margin-left: 10px;
+  font-size: 22px;
+  font-weight: 700;
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdFirstRightContainerFirst {
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdFirstRightContainerSecond {
+  margin-top: 45px;
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdFirstRightContainerThird {
+  margin-top: 45px;
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdFirstRightContainerFourth {
+  margin-top: 45px;
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdSecond {
+  margin-top: 50px;
+}
+
+.isoCertificationContainerThirdSecondContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.isoCertificationContainerThirdSecondContainerImgOneImg,
+.isoCertificationContainerThirdSecondContainerImgTwoImg {
+  border-radius: 10px;
+}
+
+.isoCertificationContainerThirdSecondContainerImgOne img,
+.isoCertificationContainerThirdSecondContainerImgTwo img {
+  border-radius: 5px;
+  width: 44vw;
+  height: auto;
+}
+
+.isoCertificationContainerThirdThird {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 150px;
+  padding-bottom: 150px;
+}
+
+.isoCertificationContainerThirdThirdLeft {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.isoCertificationContainerThirdThirdRight {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.isoCertificationContainerThirdThirdLeftContainerHeaderText {
+  font-size: 42px;
+  font-weight: 900;
+  line-height: 0.9em;
+  width: 90%;
+  text-transform: uppercase;
+}
+
+.isoCertificationContainerThirdThirdLeftContainerText {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.isoCertificationContainerThirdThirdLeftContainerTextDiv {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: lightgray;
+}
+
+.isoCertificationContainerThirdThirdLeftContainerTextText {
+  font-size: 26px;
+  font-weight: 600;
+  color: lightgray;
+  text-transform: uppercase;
+  margin-left: 15px;
+}
+
+.isoCertificationContainerThirdThirdRightContainer {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.isoCertificationContainerThirdThirdRightContainerOne {
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdThirdRightContainerTwo {
+  margin-top: 25px;
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdThirdRightContainerThree {
+  margin-top: 25px;
+  color: lightgray;
+}
+
+.isoCertificationContainerThirdFourth {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.isoCertificationContainerThirdFourthTopHeaderText {
+  text-transform: uppercase;
+  font-size: 46px;
+  font-weight: 900;
+  width: 85%;
+  line-height: 0.9em;
+}
+
+.isoCertificationContainerThirdFourthMiddle {
+  margin-top: 50px;
+}
+
+.isoCertificationContainerThirdFourthMiddle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElement {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  width: 90%;
+  margin: 0 10px;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElementContainerOneText {
+  font-size: 32px;
+  font-weight: 800;
+  color: #c69c6d;
+  width: 90%;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElementContainerTwoText {
+  margin-top: 20px;
+  font-size: 28px;
+  font-weight: 800;
+  width: 90%;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElementContainerThreeText {
+  margin-top: 35px;
+  font-size: 18px;
+  font-weight: 600;
+  width: 90%;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElementContainerButton {
+  margin-top: 35px;
+  margin-bottom: 50px;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElementContainerButton
+  button {
+  width: 170px;
+  height: 40px;
+  font-size: 22px;
+  color: #c69c6d;
+  background: none;
+  border: 1px solid #c69c6d;
+  border-radius: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElement {
+  margin-right: 10px;
+}
+
+.isoCertificationContainerThirdFourthMiddleContainerElementContainerEleHr {
+  width: 400px;
+  height: 1px;
+  background-color: gray;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
