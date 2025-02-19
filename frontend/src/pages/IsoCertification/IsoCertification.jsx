@@ -263,7 +263,36 @@ const IsoCertification = () => {
             </div>
 
             {/* Bottom Part */}
-            <div className="isoCertificationContainerThirdFourthBottom"></div>
+            <div className="isoCertificationContainerThirdFourthBottom">
+              <div className="isoCertificationContainerThirdFourthBottomContainer">
+                <div className="isoCertificationContainerThirdFourthBottomContainerImage">
+                  <img
+                    src={assets.aboutUsIsoFive}
+                    alt=""
+                    className="isoCertificationContainerThirdFourthBottomContainerImageImg"
+                  />
+                </div>
+
+                <div className="isoCertificationContainerThirdFourthBottomContainerTextContainer">
+                  <div className="isoCertificationContainerThirdFourthBottomContainerTextContainerHeader">
+                    <p className="isoCertificationContainerThirdFourthBottomContainerTextContainerHeaderText">
+                      Read about all of our products
+                    </p>
+                  </div>
+
+                  <p className="isoCertificationContainerThirdFourthBottomContainerTextContainerInfoText">
+                    Do you want to read abotu the details, product features,
+                    descriptions, graphics and much more?
+                  </p>
+
+                  <div className="isoCertificationContainerThirdFourthBottomContainerTextContainerButtonDiv">
+                    <button className="isoCertificationContainerThirdFourthBottomContainerTextContainerButtonDivBtn">
+                      Shop Now
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
 

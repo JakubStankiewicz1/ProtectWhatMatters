@@ -20,7 +20,10 @@ const Navbar = () => {
     location.pathname === "/product-category/frag-tactical-vest-accessories/" ||
     location.pathname === "/product-category/templars-gear/" ||
     location.pathname.includes("/product") ||
-    location.pathname === "/about-us/isoCertification";
+    location.pathname === "/about-us/isoCertification" ||
+    location.pathname === "/about-us/soft-body-armor" ||
+    location.pathname === "/about-us/hard-body-armor" ||
+    location.pathname === "/about-us/ballistic-helmets/";
 
   return (
     <div
@@ -182,15 +185,24 @@ const Navbar = () => {
                 >
                   ISO CERTIFICATION
                 </NavLink>
-                <p className="navbarComponentCenterPartShopBottomDisplayText">
+                <NavLink
+                  to="/about-us/soft-body-armor"
+                  className="navbarComponentCenterPartShopBottomDisplayText"
+                >
                   SOFT BODY ARMOR
-                </p>
-                <p className="navbarComponentCenterPartShopBottomDisplayText">
+                </NavLink>
+                <NavLink
+                  to="/about-us/hard-body-armor"
+                  className="navbarComponentCenterPartShopBottomDisplayText"
+                >
                   HARD BODY ARMOR
-                </p>
-                <p className="navbarComponentCenterPartShopBottomDisplayText">
+                </NavLink>
+                <NavLink
+                  to="/about-us/ballistic-helmets/"
+                  className="navbarComponentCenterPartShopBottomDisplayText"
+                >
                   BALLISTIC HELMETS
-                </p>
+                </NavLink>
               </div>
             </div>
           </div>

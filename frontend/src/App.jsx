@@ -19,6 +19,9 @@ import FragTacticalVestAccessories from "./pages/FragTacticalVestAccessories/Fra
 import TemplarsGear from "./pages/TemplarsGear/TemplarsGear";
 import Product from "./pages/Product/Product";
 import IsoCertification from "./pages/IsoCertification/IsoCertification";
+import AboutUsSoftBodyArmor from "./pages/AboutUsSoftBodyArmor/AboutUsSoftBodyArmor";
+import AboutUsHardBodyArmor from "./pages/AboutUsHardBodyArmor/AboutUsHardBodyArmor";
+import AboutUsBallisticHelmets from "./pages/AboutUsBallisticHelmets/AboutUsBallisticHelmets";
 
 const App = () => {
   return (
@@ -73,6 +76,18 @@ const App = () => {
         <Route
           path="/about-us/isoCertification"
           element={<IsoCertification />}
+        />
+        <Route
+          path="/about-us/soft-body-armor"
+          element={<AboutUsSoftBodyArmor />}
+        />{" "}
+        <Route
+          path="/about-us/hard-body-armor"
+          element={<AboutUsHardBodyArmor />}
+        />
+        <Route
+          path="/about-us/ballistic-helmets/"
+          element={<AboutUsBallisticHelmets />}
         />
       </Routes>
     </div>

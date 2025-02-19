@@ -51,6 +51,24 @@ import aboutUsIsoTwo from "./aboutUsIsoTwo.svg";
 import aboutUsIsoThree from "./aboutUsIsoThree.png";
 import aboutUsIsoFour from "./aboutUsIsoFour.jpg";
 
+import aboutUsIsoFive from "./aboutUsIsoFive.webp";
+
+import aboutUsSoftBodyArmorOne from "./aboutUsSoftBodyArmorOne.svg";
+import aboutUsSoftBodyArmorTwo from "./aboutUsSoftBodyArmorTwo.jpg";
+import aboutUsSoftBodyArmorThree from "./aboutUsSoftBodyArmorThree.jpg";
+import aboutUsSoftBodyArmorFour from "./aboutUsSoftBodyArmorFour.jpg";
+import aboutUsSoftBodyArmorFive from "./aboutUsSoftBodyArmorFive.png";
+import aboutUsSoftBodyArmorSix from "./aboutUsSoftBodyArmorSix.png";
+import aboutUsSoftBodyArmorSeven from "./aboutUsSoftBodyArmorSeven.png";
+import aboutUsSoftBodyArmorEight from "./aboutUsSoftBodyArmorEight.png";
+import aboutUsSoftBodyArmorNine from "./aboutUsSoftBodyArmorNine.png";
+import aboutUsSoftBodyArmorTen from "./aboutUsSoftBodyArmorTen.png";
+import aboutUsSoftBodyArmorEleven from "./aboutUsSoftBodyArmorEleven.jpg";
+import aboutUsSoftBodyArmorTwelve from "./aboutUsSoftBodyArmorTwelve.png";
+import aboutUsSoftBodyArmorFourteen from "./aboutUsSoftBodyArmorFourteen.jpg";
+import aboutUsSoftBodyArmorFiftheen from "./aboutUsSoftBodyArmorFiftheen.jpg";
+import aboutUsSoftBodyArmorSixteen from "./aboutUsSoftBodyArmorSixteen.jpg";
+
 export default {
   homepageBackground,
   logoImage,
@@ -90,4 +108,20 @@ export default {
   aboutUsIsoTwo,
   aboutUsIsoThree,
   aboutUsIsoFour,
+  aboutUsIsoFive,
+  aboutUsSoftBodyArmorOne,
+  aboutUsSoftBodyArmorTwo,
+  aboutUsSoftBodyArmorThree,
+  aboutUsSoftBodyArmorFour,
+  aboutUsSoftBodyArmorFive,
+  aboutUsSoftBodyArmorSix,
+  aboutUsSoftBodyArmorSeven,
+  aboutUsSoftBodyArmorEight,
+  aboutUsSoftBodyArmorNine,
+  aboutUsSoftBodyArmorTen,
+  aboutUsSoftBodyArmorEleven,
+  aboutUsSoftBodyArmorTwelve,
+  aboutUsSoftBodyArmorFourteen,
+  aboutUsSoftBodyArmorFiftheen,
+  aboutUsSoftBodyArmorSixteen,
 };
