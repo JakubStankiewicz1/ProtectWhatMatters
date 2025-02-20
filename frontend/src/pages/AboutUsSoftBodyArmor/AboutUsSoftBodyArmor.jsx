@@ -171,7 +171,6 @@ const AboutUsSoftBodyArmor = () => {
 
             <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainer">
               {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerOne"></div> */}
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwo">
                 {/* Top Part */}
                 <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoTop">
@@ -208,7 +207,6 @@ const AboutUsSoftBodyArmor = () => {
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoBottomRight" />
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwo">
                 {/* Top Part */}
                 {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoTop">
@@ -245,7 +243,6 @@ const AboutUsSoftBodyArmor = () => {
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoBottomRight" />
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwo">
                 {/* Top Part */}
                 {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoTop">
@@ -282,7 +279,6 @@ const AboutUsSoftBodyArmor = () => {
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoBottomRight" />
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwo">
                 {/* Top Part */}
                 {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoTop">
@@ -319,7 +315,6 @@ const AboutUsSoftBodyArmor = () => {
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoBottomRight" />
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwo">
                 {/* Top Part */}
                 {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoTop">
@@ -356,7 +351,6 @@ const AboutUsSoftBodyArmor = () => {
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoBottomRight" />
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwo">
                 {/* Top Part */}
                 {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoTop">
@@ -393,7 +387,6 @@ const AboutUsSoftBodyArmor = () => {
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwoBottomRight" />
                 </div> */}
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerFour">
                 <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerFourContainer">
                   <img
@@ -408,7 +401,6 @@ const AboutUsSoftBodyArmor = () => {
                   />
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerFive">
                 <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerFiveContainer">
                   <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerFiveContainerLeft">
@@ -438,13 +430,11 @@ const AboutUsSoftBodyArmor = () => {
                   </div>
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerSix">
                 <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerSixContainer">
                   {/* Left Part */}
                 </div>
               </div>
-
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerSeven">
                 <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerSevenContainer">
                   {/* Left Part */}
@@ -502,17 +492,210 @@ const AboutUsSoftBodyArmor = () => {
                   </div>
                 </div>
               </div>
-              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEight"></div>
-              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNine"></div>
-              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTen"></div>
-              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEleven"></div>
-              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelve"></div>
-              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerThirteen"></div>
+              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEight">
+                <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEightContainer">
+                  <img
+                    src={assets.aboutUsSoftBodyArmorFourteen}
+                    alt=""
+                    className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEightContainerImg"
+                  />
+                  <img
+                    src={assets.aboutUsSoftBodyArmorFiftheen}
+                    alt=""
+                    className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEightContainerImg"
+                  />
+                </div>
+              </div>
+
+              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNine">
+                <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainer">
+                  {/* Left Part */}
+                  <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerLeft">
+                    <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerLeftHeaderText">
+                      Bulletproof vest NIJ levels
+                    </p>
+
+                    <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerLeftDiv">
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerLeftDivCircle" />
+                      <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerLeftDivText">
+                        protection levels
+                      </p>
+                    </div>
+                  </div>
+
+                  {/* Right Part */}
+                  <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRight">
+                    <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTextOne">
+                      All of our bulletproof solutions undergo thorough testing,
+                      meeting the international NIJ (National Institute of
+                      Justice) standards at renowned laboratories such as AITEX
+                      in Spain and Element Defense in the United States.
+                    </p>
+                    <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTextTwo">
+                      We operate according to both NIJ standard 0101.06 and NIJ
+                      standard 0101.04, which are standards for bulletproof
+                      vests, meaning that the vest has been tested through
+                      strict testing methods in a professional laboratory. This
+                      ensures that our vests can stop the threats set by NIJ.
+                    </p>
+                    <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTextThree">
+                      NIJ standard 0101.06 comes in 3 different threat levels,
+                      where all our bulletproof vests mainly are level 3a. This
+                      means that our body armor will stop all the threats below:
+                    </p>
+
+                    {/* Table */}
+                    <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTable">
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableOne">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableOneTextOne">
+                          NIJ standard 0101.06
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableOneTextOne">
+                          Projectile
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableOneTextOne">
+                          Velocity
+                        </p>
+                      </div>
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableTwo">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableTwoTextOne">
+                          Level IIA
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableTwoTextTwo">
+                          Level IIA
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableTwoTextThree">
+                          373 m/s ± 9.1 m/s
+                        </p>
+                      </div>
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableThree">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableThreeTextOne"></p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableThreeTextTwo">
+                          .40 S&W FMJ, 11.8 g (180 gr)
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableThreeTextThree">
+                          352 m/s ± 9.1 m/s
+                        </p>
+                      </div>
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFour">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFourTextOne">
+                          Level II
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFourTextTwo">
+                          9mm FMJ RN, 8.0 g (124 gr)
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFourTextThree">
+                          398 m/s ± 9.1 m/s
+                        </p>
+                      </div>
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFive">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFiveTextOne"></p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFiveTextTwo">
+                          .357 Magnum JSP, 10.2 g (158 gr)
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableFiveTextThree">
+                          436 m/s ± 9.1 m/s
+                        </p>
+                      </div>
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSiv">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSivTextOne">
+                          Level IIIA
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSivTextTwo">
+                          .357 SIG FMJ FN, 8.1 g (125 gr)
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSivTextThree">
+                          448 m/s ± 9.1 m/s
+                        </p>
+                      </div>
+                      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSeven">
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSevenTextOne"></p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSevenTextTwo">
+                          .44 Magnum SJHP, 15.6 g (240 gr)
+                        </p>
+                        <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerNineContainerRightTableSevenTextThree">
+                          436 m/s ± 9.1 m/s
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTen">
+                <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainer">
+                  {/* Left Part */}
+                  <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerLeft">
+                    <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerLeftContainer">
+                      <img
+                        src={assets.aboutUsSoftBodyArmorSixteen}
+                        alt=""
+                        className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerLeftContainerImg"
+                      />
+                    </div>
+                  </div>
+
+                  {/* Right Part */}
+                  <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerRight">
+                    <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerRightContainer">
+                      <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerRightContainerHeaderText">
+                        Unisex bulletproof vests
+                      </p>
+
+                      <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTenContainerRightContainerText">
+                        Most of our bulletproof vests are unisex. They are
+                        designed to provide effective protection for all body
+                        types, offering a versatile fit that accommodates both
+                        men and women without further custom fitting being
+                        needed. The design of our soft body armor ensures
+                        comfort and mobility without compromising on safety.
+                        Better engineering, design and materials is the
+                        foundation of our high-quality soft body armor that
+                        forms itself to almost any bodytype, man or female.
+                        Unisex soft armor is ideal for law enforcement, security
+                        personnel, and civilians, ensuring reliable ballistic
+                        level IIIA protection regardless of gender.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerEleven">
+                <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerElevenDiv" />
+              </div>
+
+              <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelve">
+                <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelveContainer">
+                  <img
+                    src={assets.aboutUsIsoFive}
+                    alt=""
+                    className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelveContainerImg"
+                  />
+                </div>
+
+                <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelveTextContainer">
+                  <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelveTextContainerHeaderTextOne">
+                    Read about all of our products
+                  </p>
+                  <p className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelveTextContainerHeaderTextTwo">
+                    Do you want to read about the details, product features,
+                    descriptions, graphics, and much more?
+                  </p>
+
+                  <button className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerTwelveTextContainerBtn">
+                    Shop Now
+                  </button>
+                </div>
+              </div>
+
+              {/* <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerThirteen" /> */}
               <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerFourteen"></div>
             </div>
           </div>
         </div>
       </div>
+
+      <div className="aboutUsSoftBodyArmorContainerThirdContainerFourthContainerThirteen" />
 
       <Fotter />
     </div>

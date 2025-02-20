@@ -69,6 +69,25 @@ import aboutUsSoftBodyArmorFourteen from "./aboutUsSoftBodyArmorFourteen.jpg";
 import aboutUsSoftBodyArmorFiftheen from "./aboutUsSoftBodyArmorFiftheen.jpg";
 import aboutUsSoftBodyArmorSixteen from "./aboutUsSoftBodyArmorSixteen.jpg";
 
+import jeden from "./1.jpg";
+import dwa from "./2.svg";
+import trzy from "./3.png";
+import cztery from "./4.png";
+import piec from "./5.png";
+import szesc from "./6.png";
+import siedem from "./7.png";
+import osiem from "./8.png";
+import diewiec from "./9.png";
+import dziesiec from "./10.jpg";
+import jedenascie from "./11.jpg";
+import dwanascie from "./12.jpg";
+import trzynascie from "./13.png";
+import czternascie from "./14.png";
+import pietnascie from "./15.png";
+import szesnascie from "./16.png";
+import siedemnascie from "./17.png";
+import osiemnascie from "./18.png";
+
 export default {
   homepageBackground,
   logoImage,
